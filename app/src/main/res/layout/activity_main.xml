@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -19,13 +18,13 @@
             tools:layout_editor_absoluteY="0dp" />
 
         <TextView
-
+            android:id="@+id/mFriedName3"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:fontFamily="sans-serif-light"
             android:paddingBottom="20dp"
             android:paddingTop="20dp"
-            android:text="Happy Birthday, Malak!"
+            android:text="@string/happy_birthday_malak"
             android:textColor="@android:color/white"
             android:textSize="32sp"
             android:textStyle="bold"
@@ -33,6 +32,7 @@
             tools:layout_editor_absoluteY="0dp" />
 
         <TextView
+            android:id="@+id/mName3"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_alignParentBottom="true"
@@ -40,7 +40,7 @@
             android:fontFamily="sans-serif-light"
             android:paddingBottom="10dp"
             android:paddingTop="10dp"
-            android:text="From, Mohamed !"
+            android:text="@string/from_mohamed"
             android:textColor="@android:color/black"
             android:textSize="35sp"
             android:textStyle="bold"

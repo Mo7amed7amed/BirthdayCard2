@@ -1,3 +1,17 @@
 <resources>
-    <string name="app_name">Happy Birthday Card</string>
+    <string name="app_name">Birthday Card</string>
+    <string name="mAppName">Birthday Card</string>
+    <string name="mGetStartBtn">Get Started</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="enter_your_friend_name">Enter Your Friend Name</string>
+    <string name="create">Create</string>
+    <string name="choose_your_card_image">Choose Your Card Image</string>
+    <string name="happy_birthday_malak">Happy Birthday, Malk!</string>
+    <string name="from_mohamed">From, Mohamed !</string>
+    <string name="greeting">Happy Birthday,</string>
+    <string name="from_">From,</string>
+    <string name="banner_ad_unit_id">ca-app-pub-8177797381753680/3116081415</string>
+    <string name="banner_ad_unit_id2">ca-app-pub-8177797381753680/9815305419</string>
+    <string name="banner_ad_unit_id3">ca-app-pub-8177797381753680/7694863940</string>
+
 </resources>
