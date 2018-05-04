@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">كارت عيدميلاد</string>
+    <string name="mAppName">كارت عيدميلاد</string>
+    <string name="mGetStartBtn">أبدا</string>
+    <string name="enter_your_name">أدخل اسمك</string>
+    <string name="enter_your_friend_name">أدخل اسم صديقك</string>
+    <string name="create">تنفيذ</string>
+    <string name="choose_your_card_image">اختار صورة الكارت</string>
+    <string name="happy_birthday_malak">عيدميلاد سعيد, ملك !</string>
+    <string name="from_mohamed">صديقك ، محمد!</string>
+    <string name="greeting">عيدميلاد سعيد,</string>
+    <string name="from_">صديقك, </string>
+</resources>

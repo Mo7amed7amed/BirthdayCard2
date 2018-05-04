@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "282590002967",
+    "firebase_url": "https://birthdaycard-94b51.firebaseio.com",
+    "project_id": "birthdaycard-94b51",
+    "storage_bucket": "birthdaycard-94b51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282590002967:android:7c447804795647f5",
+        "android_client_info": {
+          "package_name": "com.example.mohamed.happybirthdaycard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282590002967-4f5s0oc92g1hesp5n2v7a9n5lvgt8jl3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mohamed.happybirthdaycard",
+            "certificate_hash": "2c63249b5ec2bc31dca712fca575a3f94c127b9d"
+          }
+        },
+        {
+          "client_id": "282590002967-3k58fddiq2mmu6fpfvrttiorp898d35h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfuPovge2mii_jR2r3RphQ1s6LvwX7nPg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282590002967-3k58fddiq2mmu6fpfvrttiorp898d35h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
